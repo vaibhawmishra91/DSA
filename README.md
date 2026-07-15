@@ -17,4 +17,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/vaibhawmishra91/DSA/tree/master/0112-path-sum) |
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/vaibhawmishra91/DSA/tree/master/0066-plus-one) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/vaibhawmishra91/DSA/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
