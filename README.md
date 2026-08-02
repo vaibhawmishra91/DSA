@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/vaibhawmishra91/DSA/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vaibhawmishra91/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vaibhawmishra91/DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/vaibhawmishra91/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/vaibhawmishra91/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/vaibhawmishra91/DSA/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vaibhawmishra91/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vaibhawmishra91/DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/vaibhawmishra91/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/vaibhawmishra91/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/vaibhawmishra91/DSA/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vaibhawmishra91/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/vaibhawmishra91/DSA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/vaibhawmishra91/DSA/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/vaibhawmishra91/DSA/tree/master/0543-diameter-of-binary-tree) |
 ## Array
 |  |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/vaibhawmishra91/DSA/tree/master/0058-length-of-last-word) |
+| [0257-binary-tree-paths](https://github.com/vaibhawmishra91/DSA/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/vaibhawmishra91/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vaibhawmishra91/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/vaibhawmishra91/DSA/tree/master/0392-is-subsequence) |
@@ -118,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/vaibhawmishra91/DSA/tree/master/0278-first-bad-version) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/vaibhawmishra91/DSA/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
