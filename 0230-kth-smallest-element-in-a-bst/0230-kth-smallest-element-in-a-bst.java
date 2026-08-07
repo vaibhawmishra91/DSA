@@ -13,18 +13,44 @@
  *     }
  * }
  */
-class Solution {
-     ArrayList<Integer> inorder(TreeNode root,ArrayList<Integer> list ){
-         if(root==null) return list;
-             inorder(root.left,list);
-        list.add(root.val);
+// class Solution {
+//      ArrayList<Integer> inorder(TreeNode root,ArrayList<Integer> list ){
+//          if(root==null) return list;
+//              inorder(root.left,list);
+//         list.add(root.val);
     
-        inorder(root.right,list);
-        return list;
-    }
+//         inorder(root.right,list);
+//         return list;
+//     }
+//     public int kthSmallest(TreeNode root, int k) {
+//         ArrayList<Integer> list=new ArrayList<>();
+//         inorder(root,list);
+//         return list.get(k-1);
+//     }
+// }
+
+class Solution {
+
+    int count = 0;
+    int ans = 0;
+
     public int kthSmallest(TreeNode root, int k) {
-        ArrayList<Integer> list=new ArrayList<>();
-        inorder(root,list);
-        return list.get(k-1);
+        inorder(root, k);
+        return ans;
+    }
+
+    void inorder(TreeNode root, int k) {
+        if (root == null) return;
+
+        inorder(root.left, k);
+
+        count++;
+
+        if (count == k) {
+            ans = root.val;
+            return;
+        }
+
+        inorder(root.right, k);
     }
 }
