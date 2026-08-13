@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vaibhawmishra91/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vaibhawmishra91/DSA/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhawmishra91/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/vaibhawmishra91/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/vaibhawmishra91/DSA/tree/master/1046-last-stone-weight) |
 | [1929-concatenation-of-array](https://github.com/vaibhawmishra91/DSA/tree/master/1929-concatenation-of-array) |
 | [2942-find-words-containing-character](https://github.com/vaibhawmishra91/DSA/tree/master/2942-find-words-containing-character) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/vaibhawmishra91/DSA/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/vaibhawmishra91/DSA/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/vaibhawmishra91/DSA/tree/master/0367-valid-perfect-square) |
+| [0973-k-closest-points-to-origin](https://github.com/vaibhawmishra91/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## String
 |  |
 | ------- |
@@ -196,17 +198,29 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vaibhawmishra91/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhawmishra91/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/vaibhawmishra91/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhawmishra91/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/vaibhawmishra91/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhawmishra91/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/vaibhawmishra91/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/vaibhawmishra91/DSA/tree/master/1046-last-stone-weight) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhawmishra91/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/vaibhawmishra91/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/vaibhawmishra91/DSA/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/vaibhawmishra91/DSA/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
