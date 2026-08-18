@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/vaibhawmishra91/DSA/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/vaibhawmishra91/DSA/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhawmishra91/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0283-move-zeroes](https://github.com/vaibhawmishra91/DSA/tree/master/0283-move-zeroes) |
 | [0658-find-k-closest-elements](https://github.com/vaibhawmishra91/DSA/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/vaibhawmishra91/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/vaibhawmishra91/DSA/tree/master/1046-last-stone-weight) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaibhawmishra91/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/vaibhawmishra91/DSA/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/vaibhawmishra91/DSA/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/vaibhawmishra91/DSA/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/vaibhawmishra91/DSA/tree/master/0658-find-k-closest-elements) |
 ## Dynamic Programming
