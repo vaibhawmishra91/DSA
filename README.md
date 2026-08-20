@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhawmishra91/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vaibhawmishra91/DSA/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/vaibhawmishra91/DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/vaibhawmishra91/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/vaibhawmishra91/DSA/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/vaibhawmishra91/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/vaibhawmishra91/DSA/tree/master/1046-last-stone-weight) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vaibhawmishra91/DSA/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/vaibhawmishra91/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vaibhawmishra91/DSA/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/vaibhawmishra91/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/vaibhawmishra91/DSA/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/vaibhawmishra91/DSA/tree/master/0658-find-k-closest-elements) |
 ## Dynamic Programming
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vaibhawmishra91/DSA/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/vaibhawmishra91/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/vaibhawmishra91/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vaibhawmishra91/DSA/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vaibhawmishra91/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vaibhawmishra91/DSA/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/vaibhawmishra91/DSA/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/vaibhawmishra91/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/vaibhawmishra91/DSA/tree/master/0367-valid-perfect-square) |
 | [0658-find-k-closest-elements](https://github.com/vaibhawmishra91/DSA/tree/master/0658-find-k-closest-elements) |
 ## Interactive
@@ -219,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vaibhawmishra91/DSA/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhawmishra91/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vaibhawmishra91/DSA/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/vaibhawmishra91/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/vaibhawmishra91/DSA/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/vaibhawmishra91/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
