@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/vaibhawmishra91/DSA/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/vaibhawmishra91/DSA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/vaibhawmishra91/DSA/tree/master/0257-binary-tree-paths) |
 | [0383-ransom-note](https://github.com/vaibhawmishra91/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vaibhawmishra91/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vaibhawmishra91/DSA/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/vaibhawmishra91/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/vaibhawmishra91/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/vaibhawmishra91/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vaibhawmishra91/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vaibhawmishra91/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/vaibhawmishra91/DSA/tree/master/0383-ransom-note) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/vaibhawmishra91/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/vaibhawmishra91/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/vaibhawmishra91/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/vaibhawmishra91/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vaibhawmishra91/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vaibhawmishra91/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/vaibhawmishra91/DSA/tree/master/0658-find-k-closest-elements) |
