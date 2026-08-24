@@ -6,11 +6,8 @@ class Solution {
             map.put(ch,map.getOrDefault(ch,0)+1);
         }
 
-        int freq=0;
-        for (int value : map.values()) {
-           freq = value;
-            break;
-        }
+        
+         int freq = map.get(s.charAt(0));
 
         for(int count:map.values()){
             if(count!=freq) return false;
