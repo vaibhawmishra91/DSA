@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/vaibhawmishra91/DSA/tree/master/1929-concatenation-of-array) |
 | [2942-find-words-containing-character](https://github.com/vaibhawmishra91/DSA/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vaibhawmishra91/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/vaibhawmishra91/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Math
 |  |
 | ------- |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vaibhawmishra91/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vaibhawmishra91/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vaibhawmishra91/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/vaibhawmishra91/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Queue
 |  |
 | ------- |
