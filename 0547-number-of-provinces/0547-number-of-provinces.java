@@ -11,6 +11,7 @@ class Solution {
      q.add(i);
 
      while(q.size()>0){
+        // front is row
         int front=q.remove();
         // Check every possible neighbour
         for(int j=0;j<n;j++){
