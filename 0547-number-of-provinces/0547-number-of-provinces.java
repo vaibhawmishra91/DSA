@@ -1,3 +1,6 @@
+// Time Complexity  = O(n²)
+// Space Complexity = O(n)
+
 class Solution {
 
     void bfs(int i,boolean[] vis,int[][] adj){
@@ -9,6 +12,7 @@ class Solution {
 
      while(q.size()>0){
         int front=q.remove();
+        // Check every possible neighbour
         for(int j=0;j<n;j++){
             if(adj[front][j]==1 && vis[j]==false){
                 q.add(j);
@@ -18,9 +22,12 @@ class Solution {
      }
     }
     public int findCircleNum(int[][] adj) {
+        // get no of node
        int n=adj.length;
        int count = 0;
-       boolean[] vis=new boolean[n];
+
+       boolean[] vis=new boolean[n]; //by default false
+    //   go throug each node
        for(int i=0;i<n;i++){
         if(!vis[i]){
             bfs(i,vis,adj);
