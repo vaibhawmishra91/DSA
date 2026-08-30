@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vaibhawmishra91/DSA/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/vaibhawmishra91/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vaibhawmishra91/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vaibhawmishra91/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaibhawmishra91/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/vaibhawmishra91/DSA/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/vaibhawmishra91/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vaibhawmishra91/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vaibhawmishra91/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -331,4 +333,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/vaibhawmishra91/DSA/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/vaibhawmishra91/DSA/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/vaibhawmishra91/DSA/tree/master/1971-find-if-path-exists-in-graph) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/vaibhawmishra91/DSA/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
