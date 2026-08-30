@@ -13,30 +13,36 @@ class Solution {
             if (i > 0 && nums[i] == nums[i - 1])
                 continue;
 
-            int left = i + 1;
-            int right = n - 1;
+            int j = i + 1;
+            int k = n - 1;
 
-            while (left < right) {
-                int sum = nums[i] + nums[left] + nums[right];
+            while (j < k) {
+                int sum = nums[i] + nums[j] + nums[k];
 
                 if (sum == 0) {
-                    ans.add(Arrays.asList(nums[i], nums[left], nums[right]));
+                    ArrayList<Integer> temp = new ArrayList<>();
+                    temp.add(nums[i]);
+                    temp.add(nums[j]);
+                    temp.add(nums[k]);
 
-                    left++;
-                    right--;
+                     // Add this triplet to the final answer
+                    ans.add(temp);
+
+                    j++;
+                    k--;
 
                     // Skip duplicate second elements
-                    while (left < right && nums[left] == nums[left - 1])
-                        left++;
+                    while (j < k && nums[j] == nums[j - 1])
+                        j++;
 
                     // Skip duplicate third elements
-                    while (left < right && nums[right] == nums[right + 1])
-                        right--;
+                    while (j < k && nums[k] == nums[k + 1])
+                        k--;
 
                 } else if (sum < 0) {
-                    left++;
+                    j++;
                 } else {
-                    right--;
+                    k--;
                 }
             }
         }
@@ -44,3 +50,4 @@ class Solution {
         return ans;
     }
 }
+
