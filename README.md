@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vaibhawmishra91/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/vaibhawmishra91/DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/vaibhawmishra91/DSA/tree/master/0392-is-subsequence) |
+| [0680-valid-palindrome-ii](https://github.com/vaibhawmishra91/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/vaibhawmishra91/DSA/tree/master/0709-to-lower-case) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vaibhawmishra91/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vaibhawmishra91/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vaibhawmishra91/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/vaibhawmishra91/DSA/tree/master/0392-is-subsequence) |
 | [0658-find-k-closest-elements](https://github.com/vaibhawmishra91/DSA/tree/master/0658-find-k-closest-elements) |
+| [0680-valid-palindrome-ii](https://github.com/vaibhawmishra91/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0905-sort-array-by-parity](https://github.com/vaibhawmishra91/DSA/tree/master/0905-sort-array-by-parity) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vaibhawmishra91/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Dynamic Programming
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/vaibhawmishra91/DSA/tree/master/0011-container-with-most-water) |
+| [0680-valid-palindrome-ii](https://github.com/vaibhawmishra91/DSA/tree/master/0680-valid-palindrome-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
