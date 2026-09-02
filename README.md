@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/vaibhawmishra91/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/vaibhawmishra91/DSA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/vaibhawmishra91/DSA/tree/master/0392-is-subsequence) |
+| [0424-longest-repeating-character-replacement](https://github.com/vaibhawmishra91/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0680-valid-palindrome-ii](https://github.com/vaibhawmishra91/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/vaibhawmishra91/DSA/tree/master/0709-to-lower-case) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vaibhawmishra91/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/vaibhawmishra91/DSA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/vaibhawmishra91/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/vaibhawmishra91/DSA/tree/master/0389-find-the-difference) |
+| [0424-longest-repeating-character-replacement](https://github.com/vaibhawmishra91/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhawmishra91/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vaibhawmishra91/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vaibhawmishra91/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vaibhawmishra91/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/vaibhawmishra91/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0658-find-k-closest-elements](https://github.com/vaibhawmishra91/DSA/tree/master/0658-find-k-closest-elements) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vaibhawmishra91/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Prefix Sum
