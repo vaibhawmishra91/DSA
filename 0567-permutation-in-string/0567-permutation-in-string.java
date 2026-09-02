@@ -4,7 +4,7 @@ class Solution {
        int len=s1.length();
 
        int i=0;
-
+        // Frequency of s1
        while(i<len){
         char c=s1.charAt(i);
         freq[c-'a']++;
@@ -17,7 +17,7 @@ class Solution {
      while(j<s2.length()){
         int k=i;
         int[] temp=new int[26];
-
+           // Window in s2
         while(k<=j){
         char c=s2.charAt(k);
         temp[c-'a']++;
