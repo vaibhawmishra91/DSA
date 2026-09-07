@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/vaibhawmishra91/DSA/tree/master/1046-last-stone-weight) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vaibhawmishra91/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1929-concatenation-of-array](https://github.com/vaibhawmishra91/DSA/tree/master/1929-concatenation-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/vaibhawmishra91/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2942-find-words-containing-character](https://github.com/vaibhawmishra91/DSA/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vaibhawmishra91/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vaibhawmishra91/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/vaibhawmishra91/DSA/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/vaibhawmishra91/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0881-boats-to-save-people](https://github.com/vaibhawmishra91/DSA/tree/master/0881-boats-to-save-people) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/vaibhawmishra91/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Bit Manipulation
 |  |
 | ------- |
