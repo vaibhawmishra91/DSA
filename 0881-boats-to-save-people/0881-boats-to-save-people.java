@@ -13,7 +13,7 @@ class Solution {
             i++;
             j--;
         }
-        if(sum>limit){
+        else{
             boat++;
             j--;
         }
