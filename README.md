@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vaibhawmishra91/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vaibhawmishra91/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaibhawmishra91/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0523-continuous-subarray-sum](https://github.com/vaibhawmishra91/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhawmishra91/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/vaibhawmishra91/DSA/tree/master/0658-find-k-closest-elements) |
 | [0769-max-chunks-to-make-sorted](https://github.com/vaibhawmishra91/DSA/tree/master/0769-max-chunks-to-make-sorted) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vaibhawmishra91/DSA/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/vaibhawmishra91/DSA/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/vaibhawmishra91/DSA/tree/master/0367-valid-perfect-square) |
+| [0523-continuous-subarray-sum](https://github.com/vaibhawmishra91/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/vaibhawmishra91/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vaibhawmishra91/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3871-count-commas-in-range-ii](https://github.com/vaibhawmishra91/DSA/tree/master/3871-count-commas-in-range-ii) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/vaibhawmishra91/DSA/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/vaibhawmishra91/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vaibhawmishra91/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0523-continuous-subarray-sum](https://github.com/vaibhawmishra91/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhawmishra91/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/vaibhawmishra91/DSA/tree/master/0567-permutation-in-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vaibhawmishra91/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/vaibhawmishra91/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhawmishra91/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [3903-smallest-stable-index-i](https://github.com/vaibhawmishra91/DSA/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/vaibhawmishra91/DSA/tree/master/3904-smallest-stable-index-ii) |
@@ -420,4 +424,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0769-max-chunks-to-make-sorted](https://github.com/vaibhawmishra91/DSA/tree/master/0769-max-chunks-to-make-sorted) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/vaibhawmishra91/DSA/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
