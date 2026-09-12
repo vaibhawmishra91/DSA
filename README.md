@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/vaibhawmishra91/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1929-concatenation-of-array](https://github.com/vaibhawmishra91/DSA/tree/master/1929-concatenation-of-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vaibhawmishra91/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/vaibhawmishra91/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vaibhawmishra91/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2942-find-words-containing-character](https://github.com/vaibhawmishra91/DSA/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vaibhawmishra91/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/vaibhawmishra91/DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/vaibhawmishra91/DSA/tree/master/0905-sort-array-by-parity) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vaibhawmishra91/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/vaibhawmishra91/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/vaibhawmishra91/DSA/tree/master/1929-concatenation-of-array) |
+| [2149-rearrange-array-elements-by-sign](https://github.com/vaibhawmishra91/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vaibhawmishra91/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Binary Search Tree
 |  |
