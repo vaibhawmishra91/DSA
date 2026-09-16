@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/vaibhawmishra91/DSA/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/vaibhawmishra91/DSA/tree/master/0724-find-pivot-index) |
 | [0769-max-chunks-to-make-sorted](https://github.com/vaibhawmishra91/DSA/tree/master/0769-max-chunks-to-make-sorted) |
+| [0875-koko-eating-bananas](https://github.com/vaibhawmishra91/DSA/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/vaibhawmishra91/DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/vaibhawmishra91/DSA/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/vaibhawmishra91/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaibhawmishra91/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/vaibhawmishra91/DSA/tree/master/0367-valid-perfect-square) |
 | [0658-find-k-closest-elements](https://github.com/vaibhawmishra91/DSA/tree/master/0658-find-k-closest-elements) |
+| [0875-koko-eating-bananas](https://github.com/vaibhawmishra91/DSA/tree/master/0875-koko-eating-bananas) |
 ## Interactive
 |  |
 | ------- |
