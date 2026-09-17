@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/vaibhawmishra91/DSA/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/vaibhawmishra91/DSA/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/vaibhawmishra91/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/vaibhawmishra91/DSA/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/vaibhawmishra91/DSA/tree/master/0509-fibonacci-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vaibhawmishra91/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -426,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/vaibhawmishra91/DSA/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/vaibhawmishra91/DSA/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/vaibhawmishra91/DSA/tree/master/0389-find-the-difference) |
 ## String Matching
 |  |
