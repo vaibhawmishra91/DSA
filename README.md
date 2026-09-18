@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/vaibhawmishra91/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/vaibhawmishra91/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/vaibhawmishra91/DSA/tree/master/0709-to-lower-case) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vaibhawmishra91/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vaibhawmishra91/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vaibhawmishra91/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vaibhawmishra91/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/vaibhawmishra91/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/vaibhawmishra91/DSA/tree/master/0567-permutation-in-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vaibhawmishra91/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vaibhawmishra91/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vaibhawmishra91/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vaibhawmishra91/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/vaibhawmishra91/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/vaibhawmishra91/DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/vaibhawmishra91/DSA/tree/master/0905-sort-array-by-parity) |
 | [0973-k-closest-points-to-origin](https://github.com/vaibhawmishra91/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vaibhawmishra91/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vaibhawmishra91/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Heap (Priority Queue)
 |  |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/vaibhawmishra91/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/vaibhawmishra91/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0881-boats-to-save-people](https://github.com/vaibhawmishra91/DSA/tree/master/0881-boats-to-save-people) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vaibhawmishra91/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vaibhawmishra91/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vaibhawmishra91/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Bit Manipulation
