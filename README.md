@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/vaibhawmishra91/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaibhawmishra91/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0523-continuous-subarray-sum](https://github.com/vaibhawmishra91/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/vaibhawmishra91/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhawmishra91/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/vaibhawmishra91/DSA/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/vaibhawmishra91/DSA/tree/master/0724-find-pivot-index) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/vaibhawmishra91/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/vaibhawmishra91/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0523-continuous-subarray-sum](https://github.com/vaibhawmishra91/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/vaibhawmishra91/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhawmishra91/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/vaibhawmishra91/DSA/tree/master/0567-permutation-in-string) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vaibhawmishra91/DSA/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -408,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/vaibhawmishra91/DSA/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/vaibhawmishra91/DSA/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/vaibhawmishra91/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhawmishra91/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/vaibhawmishra91/DSA/tree/master/0724-find-pivot-index) |
 | [3903-smallest-stable-index-i](https://github.com/vaibhawmishra91/DSA/tree/master/3903-smallest-stable-index-i) |
