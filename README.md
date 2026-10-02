@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/vaibhawmishra91/DSA/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/vaibhawmishra91/DSA/tree/master/0836-rectangle-overlap) |
 | [0973-k-closest-points-to-origin](https://github.com/vaibhawmishra91/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/vaibhawmishra91/DSA/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/vaibhawmishra91/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3871-count-commas-in-range-ii](https://github.com/vaibhawmishra91/DSA/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vaibhawmishra91/DSA/tree/master/3875-construct-uniform-parity-array-i) |
