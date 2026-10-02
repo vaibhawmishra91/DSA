@@ -354,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/vaibhawmishra91/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vaibhawmishra91/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vaibhawmishra91/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Divide and Conquer
@@ -498,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/vaibhawmishra91/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0509-fibonacci-number](https://github.com/vaibhawmishra91/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
