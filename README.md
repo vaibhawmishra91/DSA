@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/vaibhawmishra91/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/vaibhawmishra91/DSA/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vaibhawmishra91/DSA/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0416-partition-equal-subset-sum](https://github.com/vaibhawmishra91/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0523-continuous-subarray-sum](https://github.com/vaibhawmishra91/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/vaibhawmishra91/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/vaibhawmishra91/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/vaibhawmishra91/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0338-counting-bits](https://github.com/vaibhawmishra91/DSA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/vaibhawmishra91/DSA/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/vaibhawmishra91/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/vaibhawmishra91/DSA/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/vaibhawmishra91/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/vaibhawmishra91/DSA/tree/master/0746-min-cost-climbing-stairs) |
@@ -534,4 +536,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vaibhawmishra91/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vaibhawmishra91/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/vaibhawmishra91/DSA/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/vaibhawmishra91/DSA/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
