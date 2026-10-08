@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/vaibhawmishra91/DSA/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/vaibhawmishra91/DSA/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/vaibhawmishra91/DSA/tree/master/0709-to-lower-case) |
+| [1021-remove-outermost-parentheses](https://github.com/vaibhawmishra91/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1143-longest-common-subsequence](https://github.com/vaibhawmishra91/DSA/tree/master/1143-longest-common-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vaibhawmishra91/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vaibhawmishra91/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vaibhawmishra91/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vaibhawmishra91/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0769-max-chunks-to-make-sorted](https://github.com/vaibhawmishra91/DSA/tree/master/0769-max-chunks-to-make-sorted) |
+| [1021-remove-outermost-parentheses](https://github.com/vaibhawmishra91/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/vaibhawmishra91/DSA/tree/master/0032-longest-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/vaibhawmishra91/DSA/tree/master/1021-remove-outermost-parentheses) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
