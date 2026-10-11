@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1143-longest-common-subsequence](https://github.com/vaibhawmishra91/DSA/tree/master/1143-longest-common-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vaibhawmishra91/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vaibhawmishra91/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vaibhawmishra91/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vaibhawmishra91/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/vaibhawmishra91/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2942-find-words-containing-character](https://github.com/vaibhawmishra91/DSA/tree/master/2942-find-words-containing-character) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/vaibhawmishra91/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vaibhawmishra91/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/vaibhawmishra91/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vaibhawmishra91/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Two Pointers
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/vaibhawmishra91/DSA/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/vaibhawmishra91/DSA/tree/master/0905-sort-array-by-parity) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/vaibhawmishra91/DSA/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vaibhawmishra91/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/vaibhawmishra91/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/vaibhawmishra91/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vaibhawmishra91/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/vaibhawmishra91/DSA/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vaibhawmishra91/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vaibhawmishra91/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vaibhawmishra91/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/vaibhawmishra91/DSA/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/vaibhawmishra91/DSA/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Bit Manipulation
@@ -546,6 +550,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vaibhawmishra91/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vaibhawmishra91/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/vaibhawmishra91/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vaibhawmishra91/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
