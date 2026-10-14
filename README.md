@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/vaibhawmishra91/DSA/tree/master/0709-to-lower-case) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vaibhawmishra91/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/vaibhawmishra91/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vaibhawmishra91/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/vaibhawmishra91/DSA/tree/master/1143-longest-common-subsequence) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/vaibhawmishra91/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/vaibhawmishra91/DSA/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0769-max-chunks-to-make-sorted](https://github.com/vaibhawmishra91/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vaibhawmishra91/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/vaibhawmishra91/DSA/tree/master/1021-remove-outermost-parentheses) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/vaibhawmishra91/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/vaibhawmishra91/DSA/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Two Pointers
 |  |
