@@ -17,7 +17,8 @@ class Solution {
                     stack.push(i);
                 } 
                 else {
-                    ans = Math.max(ans, i - stack.peek());
+                    int len = i - stack.peek();
+                    ans = Math.max(ans,len);
                 }
             }
         }
@@ -25,3 +26,4 @@ class Solution {
         return ans;  
     }
 }
+
