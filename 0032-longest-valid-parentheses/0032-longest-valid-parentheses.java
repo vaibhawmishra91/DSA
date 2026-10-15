@@ -16,10 +16,10 @@ class Solution {
                 if (stack.isEmpty()) {
                     stack.push(i);
                 } 
-                else {
+                // else {
                     int len = i - stack.peek();
                     ans = Math.max(ans,len);
-                }
+                // }
             }
         }
 
