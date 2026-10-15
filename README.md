@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vaibhawmishra91/DSA/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/vaibhawmishra91/DSA/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vaibhawmishra91/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vaibhawmishra91/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/vaibhawmishra91/DSA/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vaibhawmishra91/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/vaibhawmishra91/DSA/tree/master/0128-longest-consecutive-sequence) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/vaibhawmishra91/DSA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/vaibhawmishra91/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vaibhawmishra91/DSA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vaibhawmishra91/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/vaibhawmishra91/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0145-binary-tree-postorder-traversal](https://github.com/vaibhawmishra91/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0769-max-chunks-to-make-sorted](https://github.com/vaibhawmishra91/DSA/tree/master/0769-max-chunks-to-make-sorted) |
@@ -525,6 +527,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vaibhawmishra91/DSA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/vaibhawmishra91/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0769-max-chunks-to-make-sorted](https://github.com/vaibhawmishra91/DSA/tree/master/0769-max-chunks-to-make-sorted) |
 ## Pigeonhole Principle
 |  |
@@ -572,4 +575,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/vaibhawmishra91/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/vaibhawmishra91/DSA/tree/master/0494-target-sum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/vaibhawmishra91/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
