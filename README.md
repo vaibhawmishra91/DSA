@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/vaibhawmishra91/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2942-find-words-containing-character](https://github.com/vaibhawmishra91/DSA/tree/master/2942-find-words-containing-character) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vaibhawmishra91/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/vaibhawmishra91/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vaibhawmishra91/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/vaibhawmishra91/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/vaibhawmishra91/DSA/tree/master/3903-smallest-stable-index-i) |
@@ -503,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vaibhawmishra91/DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/vaibhawmishra91/DSA/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/vaibhawmishra91/DSA/tree/master/0389-find-the-difference) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/vaibhawmishra91/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## String Matching
 |  |
 | ------- |
