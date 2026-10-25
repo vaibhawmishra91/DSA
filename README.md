@@ -168,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vaibhawmishra91/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/vaibhawmishra91/DSA/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/vaibhawmishra91/DSA/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/vaibhawmishra91/DSA/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/vaibhawmishra91/DSA/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/vaibhawmishra91/DSA/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/vaibhawmishra91/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -539,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/vaibhawmishra91/DSA/tree/master/0024-swap-nodes-in-pairs) |
+| [0326-power-of-three](https://github.com/vaibhawmishra91/DSA/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/vaibhawmishra91/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
