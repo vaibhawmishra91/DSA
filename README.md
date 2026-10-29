@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/vaibhawmishra91/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/vaibhawmishra91/DSA/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/vaibhawmishra91/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/vaibhawmishra91/DSA/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/vaibhawmishra91/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/vaibhawmishra91/DSA/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vaibhawmishra91/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/vaibhawmishra91/DSA/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/vaibhawmishra91/DSA/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/vaibhawmishra91/DSA/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/vaibhawmishra91/DSA/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/vaibhawmishra91/DSA/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/vaibhawmishra91/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/vaibhawmishra91/DSA/tree/master/0213-house-robber-ii) |
