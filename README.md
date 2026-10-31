@@ -358,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/vaibhawmishra91/DSA/tree/master/0257-binary-tree-paths) |
+| [0401-binary-watch](https://github.com/vaibhawmishra91/DSA/tree/master/0401-binary-watch) |
 | [0494-target-sum](https://github.com/vaibhawmishra91/DSA/tree/master/0494-target-sum) |
 ## Simulation
 |  |
@@ -509,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/vaibhawmishra91/DSA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/vaibhawmishra91/DSA/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/vaibhawmishra91/DSA/tree/master/0389-find-the-difference) |
+| [0401-binary-watch](https://github.com/vaibhawmishra91/DSA/tree/master/0401-binary-watch) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/vaibhawmishra91/DSA/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## String Matching
 |  |
